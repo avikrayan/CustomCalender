@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomCalender</string>
+    <string name="baseUrl">http://risenshine.net.in/rns/App/app/ver1/process.php?act=</string>
+</resources>
